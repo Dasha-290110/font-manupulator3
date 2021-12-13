@@ -1,0 +1,33 @@
+body{
+    background-image:url("pink bg.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+
+.heading{
+    color: rgb(255, 255, 255);
+ background-color:rgb(255, 118, 221);
+
+}
+
+.note{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.copyright{
+    position: fixed;
+    bottom: 0;
+    font-size: 20px;
+    width:100% ;
+    color: rgb(255, 255, 255);
+    line-height:1;
+    text-align: center;
+    background-color: rgb(243, 146, 194);
+}
+
+.sq2{
+    width: 50;
+    height: 50
+}
